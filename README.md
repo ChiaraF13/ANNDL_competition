@@ -32,7 +32,17 @@ The competition was based on two different challenges:
 | 12 | Strawberry | 673 |
 | 13 | Tomato | 5693 |
 
-
 **Evaluation**: ![CodeCogsEqn (1)](https://user-images.githubusercontent.com/79702744/179723321-90a118bd-0e68-4827-9e0f-6d51a4c4d13e.svg) where N is the ottal number of images in the test set
 
+## 2. Time Series Forecasting
+**Goal**: design and implement forecasting models to learn how to exploit past observations in the input sequence to correctly predict the future
+
+**Dataset Detials**: only the training set has been provided, the models were evaluated with a hidden test on the challange's platform
+We provide a training multivariate time series with the following characteristics
+- Length of the time series (= number of samples in the training set):   68528
+- Number of features: 7
+- Name of the features: 'Sponginess', 'Wonder level', 'Crunchiness', 'Loudness on impact', 'Meme creativity', 'Soap slipperiness', 'Hype root'
+- The provided time series has a uniform sampling rate
+
+**Evaluation**: RMSE
 
