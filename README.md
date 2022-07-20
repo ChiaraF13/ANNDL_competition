@@ -1,5 +1,5 @@
 # Artificial Neural Netweorks and Deep Learning Competition
-In this repository there can be found the *Jupyter Notebooks* used by me and my collegues to participate to the competition.
+In this repository there can be found the *Jupyter Notebooks* used by me and my collegues to participate to the competition of Politecnico di Milano course *Artificial Neural Networks and Deep Learning* (2021/2022).
 
 The competition was based on two different challenges:
 - Image Classification
