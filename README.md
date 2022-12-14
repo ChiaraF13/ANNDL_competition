@@ -46,3 +46,4 @@ We provide a training multivariate time series with the following characteristic
 
 **Evaluation**: RMSE
 
+Collaborators: Chiar Fumelli, Valeria Detomas, Dario Del Gaizo.
